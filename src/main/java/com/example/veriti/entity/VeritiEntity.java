@@ -1,1 +1,3 @@
-
+{
+  "entity.veriti.veriti": "Veriti"
+}
